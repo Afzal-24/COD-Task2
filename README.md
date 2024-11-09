@@ -1,7 +1,8 @@
 NAME : Afzal Kapadwala... ID : CT08PP274... DOMAIN : Web Development... DURATION : 4 Weeks... MENTOR : Sravani Gouni...
 
 DESCRIPTION : Weather Web Application (Responsive)
-This responsive weather web application is designed to provide users with up-to-date weather information based on their input of a city, state, or country. It presents various weather metrics such as temperature, wind speed, humidity, pressure, and cloud coverage in a visually appealing and user-friendly interface. The application also features a dark mode toggle for better usability during different times of the day.
+This responsive weather web application is designed to provide users with up-to-date weather information based on their input of a city, state, or country. It presents various weather metrics such as temperature, wind speed, humidity, pressure, and cloud coverage in a visually appealing and user-friendly interface. The application also features a dark mode toggle for better usability during different times of the day. </br>
+Live - https://weather-forecasting-afzal.netlify.app/
 
 Features :
 - Real-Time Weather Updates: The application fetches and displays the current weather conditions for the specified location.
